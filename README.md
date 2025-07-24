@@ -2,7 +2,7 @@
 
 **A next-generation NFT smart contract for the Stacks blockchain, engineered for the cosmic digital frontier.**
 
-StellarForge is a premium ERC-721 equivalent NFT implementation that brings advanced functionality and cosmic-themed branding to the Stacks ecosystem. Forge unique stellar assets, trade in the cosmic marketplace, and navigate the digital cosmos with unprecedented control and flexibility.
+Voxel is a premium ERC-721 equivalent NFT implementation that brings advanced functionality and cosmic-themed branding to the Stacks ecosystem. Forge unique stellar assets, trade in the cosmic marketplace, and navigate the digital cosmos with unprecedented control and flexibility.
 
 ## ✨ Features
 
@@ -153,7 +153,7 @@ stellar-cosmos: {
 
 ## 🌌 Cosmic Terminology
 
-StellarForge uses space-themed terminology throughout:
+Voxel uses space-themed terminology throughout:
 
 - **Stellar**: NFT token
 - **Navigator**: Token owner
